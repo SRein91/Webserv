@@ -88,7 +88,7 @@ root:               The actual directory of the location inside the server. - re
 index:              The file that will be sent if the request is the root directory of this location. - required.\
 directory_listing:  Enables / Disables directory listing in the location block.
 					(defaults to off)\
-
+<br>
 ![alt text](https://github.com/SRein91/Webserv/blob/main/Webserv.png?raw=true)
 
 <br>
